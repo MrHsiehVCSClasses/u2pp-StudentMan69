@@ -1,3 +1,15 @@
+# Dependencies
+Maven: Install at https://maven.apache.org/install.html
+
+# Build & Run
+Run follows: 
+```
+cd my-game
+mvn package
+java -cp target/my-game-1.0-SNAPSHOT.jar game.Main
+```
+
+
 # Empty Project Template
 Fill in this README while working on your project. 
 

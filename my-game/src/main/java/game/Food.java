@@ -1,5 +1,5 @@
 package game;
-import game.Resource;
+import game.Resource;;
 public class Food extends Resource{
     String type = "Food";
     

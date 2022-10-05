@@ -1,10 +1,9 @@
-package src.game;
+package game;
+
 import java.util.*;
 import java.util.Scanner;
-import Resource;
-import Water;
-import Food;
-import Material;
+import game.*;
+
 // Java program to generate a random integer
 // within this specific range
 
